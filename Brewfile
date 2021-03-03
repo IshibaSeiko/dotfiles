@@ -27,3 +27,18 @@ cask "slack"
 # cask "sourcetree"
 cask "visual-studio-code"
 cask "zoom"
+
+# mas
+
+# mas "BetterSnapTool", id:417375580
+# mas "CommentScreen", id:1450950860
+# mas "cotEditor", id: 1024640650
+# mas "Dropover", id: 1355679052
+# mas "Kindle", id: 405399194
+# mas "LINE", id: 539883307
+# mas "Manico", id: 724472954
+# mas "Mathpix", id: 1349670778
+# mas "Nozbe", id: 508957583
+# mas "Slack", id: 803453959
+# mas "ToyViewer", id: 414298354
+mas "Xcode", id: 497799835
